@@ -1,0 +1,6 @@
+sphere1 0 0 0 5
+sphere2 3 3 3 3
+sphere3 2.5 3.1 4.2 1.5
+sphere4 0 0 5 5
+sphere5 5 0 0 5
+sphere6 0 5 0 5 

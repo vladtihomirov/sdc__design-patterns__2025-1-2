@@ -1,0 +1,8 @@
+dist
+node_modules
+coverage
+.idea
+cucumber-report.html
+temp_invalid_spheres.txt
+temp_invalid_triangles.txt
+temp_mixed_data.txt
