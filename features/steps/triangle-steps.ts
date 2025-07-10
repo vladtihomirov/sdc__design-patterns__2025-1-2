@@ -50,7 +50,7 @@ Given(
   },
 );
 
-When('I create a triangle with id {string} using these points', () => {
+When('I create a triangle using these points', () => {
   try {
     const [pointA, pointB, pointC] = currentPoints;
     currentTriangle = new Triangle(pointA, pointB, pointC);
